@@ -19,7 +19,7 @@ soup = BeautifulSoup(response.text, "html.parser")
 result = soup.find_all('h2', class_='elementor-heading-title')
 # print(result)
 
-# 取得文字資料
+# 取得標題資料
 text = []
 for res in result:
     class_name = res.getText()
@@ -89,5 +89,6 @@ for url in link:
 
 # 合併資料集
 # zip：迭代打包後面的欄位
-all_post = pd.DataFrame(zip(text, link, post), columns=["標題", "網址", "課程摘要"])
-all_post.to_csv("1010.csv", index=False, encoding="utf-8-sig")
+all_post = pd.DataFrame(zip(text, link, price_list, post),
+                        columns=["標題", "網址", "價格", "課能內容"])
+all_post.to_csv("Web Crawling_TMR.csv", index=False, encoding="utf-8-sig")
