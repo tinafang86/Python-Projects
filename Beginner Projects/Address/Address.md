@@ -30,10 +30,12 @@ with open('/Users/tinafung8686/Desktop/GITHUB/Python-Projects/Beginner Projects/
         print('更新資料:', e['姓名'], e['縣市'], e['住址'])
 ```
 - 原始資料
-<img src="img/01.png" width=“30%">
+  
+<img src="img/01.png" width="30%">
 
 - 更新資料
-<img src="img/02.png" width=“30%">
+
+<img src="img/02.png" width="30%">
 
 
 ```python
