@@ -18,7 +18,7 @@ for i, num in enumerate(check_num):  # enumerate->index, element
         print('第', i+1, '張發票中獎。中獎號碼為：', num)
 
 ```
-<img src="img/01.png" width="50%">
+<img src="img/01.png" width="30%">
 
 # 發票兌獎Project 2
 1. 給定若干發票號碼（5碼）以及若干待比對發票
@@ -41,4 +41,4 @@ for i, num in enumerate(check_num_02):
             print('第', i+1, '張發票中獎 中獎號碼為', num, '!')
 
 ```
-<img src="img/02.png" width="50%">
+<img src="img/02.png" width="30%">
