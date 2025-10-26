@@ -1,5 +1,8 @@
 # 發票兌獎Project 1
 
+####    [reference](https://www.youtube.com/watch?v=zaejPJPx_a0&list=LL)
+#### [dataset](https://plusdscp.csie.ntnu.edu.tw/index.php/demonstration/python60/?fbclid=IwAR2iKFqVgZ4ZMhIWDyTq26SywnL4MTPSl47pqGANFqg9w9uaZZDcnMsPmHc)
+
 1. 給定若單發票六獎號碼（末三碼）以及若個需比對的發票號碼（末三碼），用程式去比對幾張發票中獎
 2. 中獎號碼和比對號碼為以.txt儲存的純文字檔
 

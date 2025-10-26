@@ -1,5 +1,8 @@
 # 成績計算Project
 
+####    [reference](https://www.youtube.com/watch?v=zaejPJPx_a0&list=LL)
+#### [dataset](https://plusdscp.csie.ntnu.edu.tw/index.php/demonstration/python60/?fbclid=IwAR2iKFqVgZ4ZMhIWDyTq26SywnL4MTPSl47pqGANFqg9w9uaZZDcnMsPmHc)
+
 - 原始成績包含三次作業(50%)和一次期中考（20%）一次期末考(30%)。製作一個計算，作業取2次成績最高的，並計算平均值
 - 輸入與輸出皆為csv
 - 程式邏輯：讀取檔案->處理計算(計算前2高的成績+期中期末)->讀取新檔案（創建）->寫入規則

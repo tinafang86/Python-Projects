@@ -1,5 +1,8 @@
 # 地址資料整理Project
 
+####    [reference](https://www.youtube.com/watch?v=zaejPJPx_a0&list=LL)
+#### [dataset](https://plusdscp.csie.ntnu.edu.tw/index.php/demonstration/python60/?fbclid=IwAR2iKFqVgZ4ZMhIWDyTq26SywnL4MTPSl47pqGANFqg9w9uaZZDcnMsPmHc)
+
 - 縣市中，"台"改為"臺"
 - 樓層中"F"改為"樓"
 - 若住址在台中"中港路"，則把中港路改為"台灣大道"
